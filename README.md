@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/github/commit-activity/w/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Commit Activity">
     <img src="https://img.shields.io/github/issues/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Issues">
 </p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/FUCKTHEATTITUDE/cat.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     Ready to use method
